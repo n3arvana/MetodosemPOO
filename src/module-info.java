@@ -4,5 +4,5 @@
 /**
  * 
  */
-module MetodosemPOO {
+module Encapsulamento {
 }
